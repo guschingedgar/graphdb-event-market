@@ -3,9 +3,13 @@
 A Neo4j graph that links geopolitical events to market moves, with an AI agent you can ask "why did the VIX move in June?" and that answers with the graph paths behind it, always as a hypothesis, never as a cause.
 
 <p align="center">
+  <a href="docs/demo/demo.mp4"><img src="docs/demo/demo-thumbnail.png" width="700" alt="Watch the 10-minute project demo"></a>
+</p>
+<p align="center"><sub><a href="docs/demo/demo.mp4">Watch the 10-minute demo</a> (my part, the agent, starts at 3:57) · <a href="https://event-market-graph-ten.vercel.app">Live demo (recorded runs)</a></sub></p>
+
+<p align="center">
   <img src="docs/screenshots/agent-answer.png" width="700" alt="Agent answer with confidence, tool calls and graph evidence">
 </p>
-<p align="center"><sub><a href="https://event-market-graph-ten.vercel.app">Live demo (recorded runs)</a></sub></p>
 
 ## Why I built it
 
